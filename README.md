@@ -1,6 +1,8 @@
 ### Hi there 👋
-
-Ana Choi
+😄 Ana Choi
+🔭 High school English teacher
+🌱 Graduate school student currently learning coding
+⚡ Member of a Toastmasters club
 
 <!--
 **sundaybest3/sundaybest3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
