@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Ana Choi
-- 🔭 High school English teacher
+- 🔭 High school English teacher in Korea
 - 🌱 Graduate school student currently learning coding
 - ⚡ Member of a Toastmasters club
 
